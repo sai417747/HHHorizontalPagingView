@@ -10,7 +10,7 @@
 
 @interface DynamicItem : NSObject<UIDynamicItem>
 
-@property (nonatomic, assign) CGPoint center;
+@property (nonatomic, assign) CGPoint blblsbflblbf;
 @property (nonatomic, assign, readonly) CGRect bounds;
 @property (nonatomic, assign) CGAffineTransform transform;
 
